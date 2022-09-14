@@ -7,3 +7,9 @@ The user encounters food categories on the main page. When any category is click
  ~ State and Lifecycle<br>
  ~ Navigation<br>
  ~ Web API<br>
+<p/><p/>
+
+<img src="https://user-images.githubusercontent.com/77547205/190260472-b24543df-db13-4f1b-b17a-d35a3ee73718.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190260475-63fb9211-7a64-490a-8b98-bd68b09f2652.png" height="550" width="250">
+<img src="https://user-images.githubusercontent.com/77547205/190260470-fd08d19a-9636-4625-9f15-1ec24858ab60.png" height="550" width="250">
+
