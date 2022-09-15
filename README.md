@@ -4,10 +4,17 @@ Tarifka is a recipe application.
 The user encounters food categories on the main page. When any category is clicked, the dishes related to that category are listed. When any meal is selected, the meal detail is displayed.
  If the user wishes, she can watch the recipe video by being directed to youtube on the detail page.<br>
  <br>
- Technologies and structures used;<br>
+ Structures used;<br>
  ~ State and Lifecycle<br>
  ~ Navigation<br>
- ~ Web API<br><br>
+ ~ Web API<br>
+ ******************
+ Tarifka bir tarif uygulamasıdır. Kullanıcı ana sayfada yemek kategorileri ile karşılaşır. Herhangi bir kategoriye tıklandığında o kategoriye ait yemekler listelenir. Herhangi bir yemek seçildiğinde yemek detayı görüntülenir. Kullanıcı dilerse detay sayfasından youtube'a yönlendirilerek tarif videosunu izleyebilir.<br>
+
+Kullanılan Yapılar;<br>
+~ State and Lifecycle<br>
+~ Navigation<br>
+~ Web API<br>
 <p/><p/>
 
 <img src="https://user-images.githubusercontent.com/77547205/190260472-b24543df-db13-4f1b-b17a-d35a3ee73718.png" height="550" width="250">
